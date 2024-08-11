@@ -50,3 +50,23 @@ Bagian ini menjelaskan hasil utama dari analisis data film:
 2. **Analisis Rating dan Pendapatan**:
     ![Analisis Rating dan Pendapatan](assets\2_ratingpendapatan.png)
     - **Deskripsi**: Menampilkan distribusi pendapatan kotor berdasarkan rating film (R, PG, NC-17, dsb). Film dengan rating G cenderung memiliki pendapatan yang lebih tinggi dibandingkan dengan rating lainnya.
+
+3. **Analisis Tahun Rilis dan Pendapatan**:
+    - **Visualisasi**: Line chart
+    - **Deskripsi**: Menampilkan tren pendapatan kotor rata-rata film dari tahun ke tahun. Pendapatan film cenderung meningkat dari tahun ke tahun, dengan puncak tertentu pada tahun-tahun tertentu.
+
+4. **Analisis Skor dan Pendapatan**:
+    - **Visualisasi**: Scatter plot
+    - **Deskripsi**: Menampilkan hubungan antara skor film di IMDB dengan pendapatan kotor. Film dengan skor tinggi (8-10) cenderung menghasilkan pendapatan yang lebih tinggi dibandingkan dengan film dengan skor lebih rendah.
+
+5. **Analisis Durasi dan Pendapatan**:
+    - **Visualisasi**: Scatter plot
+    - **Deskripsi**: Menampilkan hubungan antara durasi film (runtime) dengan pendapatan kotor. Film dengan durasi lebih panjang cenderung memiliki pendapatan yang lebih tinggi.
+
+6. **Analisis Sutradara dan Pendapatan**:
+    - **Visualisasi**: Bar chart
+    - **Deskripsi**: Menampilkan rata-rata pendapatan kotor film untuk setiap sutradara terkenal. Sutradara terkenal seperti Steven Spielberg dan Christopher Nolan cenderung menghasilkan film dengan pendapatan tinggi.
+
+7. **Analisis Perusahaan Produksi dan Pendapatan**:
+    - **Visualisasi**: Bar chart
+    - **Deskripsi**: Menampilkan rata-rata pendapatan kotor film untuk setiap perusahaan rumah produksi. Perusahaan seperti Warner Bros dan Disney cenderung menghasilkan film dengan pendapatan tinggi.
