@@ -30,7 +30,7 @@ Data film dikumpulkan dari Kaggle. Proses pengumpulan data melibatkan scraping d
 
 ### Preprocessing
 Proses preprocessing mencakup penghapusan nilai null dan baris duplikasi.
-![Persebaran](assets\hubunganvar.png)
+![Persebaran](assets/hubunganvar.png)
 **Keterangan :** Setelah dilakukan pembersihan data dengan menghapus baris yang mengandung nilai null, visualisasi distribusi dan hubungan antar variabel tidak menunjukkan perubahan drastis. Hal ini mengindikasikan bahwa pembersihan data tidak mempengaruhi pola atau tren yang ada dalam data.
 
 
@@ -44,11 +44,11 @@ Hasil analisis data kemudian disajikan dalam bentuk visualisasi untuk memudahkan
 Bagian ini menjelaskan hasil utama dari analisis data film:
 
 1. **Analisis Genre dan Pendapatan**:
-    ![Analisis Genre dan Pendapatan](assets\1_genregross.png)
+    ![Analisis Genre dan Pendapatan](assets/1_genregross.png)
     **Deskripsi**: Rata-rata pendapatan kotor (gross) untuk setiap genre utama film. Genre paling menguntungkan adalah Animasi, diikuti oleh Keluarga dan Aksi.
 
 2. **Analisis Rating dan Pendapatan**:
-    ![Analisis Rating dan Pendapatan](assets\2_ratingpendapatan.png)
+    ![Analisis Rating dan Pendapatan](assets/2_ratingpendapatan.png)
     - **Deskripsi**: Menampilkan distribusi pendapatan kotor berdasarkan rating film (R, PG, NC-17, dsb). Film dengan rating G cenderung memiliki pendapatan yang lebih tinggi dibandingkan dengan rating lainnya.
 
 3. **Analisis Tahun Rilis dan Pendapatan**:
