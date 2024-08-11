@@ -1,7 +1,7 @@
 # Movie Analysis
 Selamat datang di repositori **Movie Analysis!** Proyek ini bertujuan untuk menganalisis data film, menggali wawasan dari berbagai atribut film, dan menyajikan hasil analisis dalam bentuk visualisasi.
 
-## Pendajuluan
+## Pendahuluan
 Proyek ini berfokus pada analisis data film untuk memahami tren, pola, dan faktor-faktor yang mungkin mempengaruhi kesuksesan sebuah film.
 
 ## Sumber Data
